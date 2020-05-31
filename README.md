@@ -6,6 +6,10 @@
 
   [![Last Commit](https://img.shields.io/github/last-commit/stevejkang/git-hook-bs3-prevention.svg)](https://github.com/stevejkang/git-hook-bs3-prevention/commits)
 
+## License
+
+  MIT
+
 ## Author
 
   stevejkang <iam@juneyoung.io>
