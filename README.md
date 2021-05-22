@@ -11,6 +11,7 @@
 
     $ git clone https://github.com/stevejkang/git-hook-bs3-prevention.git && cd git-hook-bs3-prevention
     $ cp pre-commit ../<your project path>/.git/hooks/
+    $ chmod +x ./.git/hooks/pre-commit
 
 ## License
 
