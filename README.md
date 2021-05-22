@@ -7,6 +7,9 @@
   [![Last Commit](https://img.shields.io/github/last-commit/stevejkang/git-hook-bs3-prevention.svg)](https://github.com/stevejkang/git-hook-bs3-prevention/commits)
 
 
+## Demo
+![Demo](./demo.gif)
+
 ## Usage
 
     $ git clone https://github.com/stevejkang/git-hook-bs3-prevention.git && cd git-hook-bs3-prevention
